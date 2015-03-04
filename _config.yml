@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: /test
+highlighter: pygments
+exclude: ['README.md']
